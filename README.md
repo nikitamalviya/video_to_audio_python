@@ -3,5 +3,5 @@ The FFMPEG exe can be downloaded from : ![FFMPEG download](https://www.filehorse
 
 It expects two arguments **video_path** and **audio_path**
 
-# Eexecute:
+# Execute:
 ```python video_to_audio.py video_path.wav audio_path.wav ```
